@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @ibitec7
-- 👀 I’m interested in data science and Artificial Intelligence. I have a keen interest in understanding and building some of the most intuitive AI algorithms.
-- 🌱 I’m currently learning Data Science from a coding bootcamp called DataCamp. I am enrolled in the Data Scientist track and hope to complete my certification very soon. I am an A-Level/highschool student but want to collaborate on projects to gain and learn some hands-on experience with programming.
-- 💞️ I’m looking to collaborate on Data Analytics projects, basically anything related to Exploratory Analysis, Data Cleaning, Data Visualisation, Sampling and hypothesis testing etc. I currently only know Pyhton and SQL so those are the programming language of preference for any projects. I am a certified Data Analyst and I got my certification from DataCamp.
-- 📫 How to reach me you can email me at syed.ibrahim.omer.2@gmail.com if you wish to contact me
+👋 Hi, I’m @ibitec7
+
+- 👀 I am captivated by the field Data Science and Artificial Intelligence. I have a keen interest in understanding how Machine Learning Algorithms work and are built. I also have an interest in exploring any data and trying to unravel what it is trying to communicate.
+
+- 🌱 I have completed my Data Science certification from DataCamp and I am a certified Data Analyst Associate and a certified Data Scientist Professional. I am currently a freshman in the BSCS program. I have a strong background in Mathematics and Statistics as well. I have studied Math and Further Math courses in my A-Levels. Along with that I have studied some fundamental courses to Machine Learning like Linear Algebra, Multi-Variable Calculus, Calculus 2 etc. on my own initiative through bootcamps. Along with that some essential statistics courses related to sampling, Hypothesis testing, Distributions, theoretical statistics etc.
+I demontrate proficiency in 5 programming languages namely: Python, SQL, Rust, C/C++, and R.
+
+- 💞️ I’m looking forward to collaborating on Data Science projects like Exploratory Analysis, Data Cleaning/Wrangling, Data Visualization, Machine/Deep Learning (with Pytorch and sklearn). However, I'm not limited to just data science collaboration but also generally collaborating on any project related to C/C++ or Rust as well. Feel free to contact me for any collaboration, joint project venture or assistance related to what I have mentioned.
+
+- 📫 To reach me: you can email me at <syed.ibrahim.omer.2@gmail.com> if you wish to contact me
+
 
 <!---
 ibitec7/ibitec7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
