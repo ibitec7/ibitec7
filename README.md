@@ -7,8 +7,6 @@ I demontrate proficiency in 5 programming languages namely: Python, SQL, Rust, C
 
 - 💞️ I’m looking forward to collaborating on Data Science projects like Exploratory Analysis, Data Cleaning/Wrangling, Data Visualization, Machine/Deep Learning (with Pytorch and sklearn). However, I'm not limited to just data science collaboration but also generally collaborating on any project related to C/C++ or Rust as well. Feel free to contact me for any collaboration, joint project venture or assistance related to what I have mentioned.
 
-- 📫 To reach me: you can email me at <syed.ibrahim.omer.2@gmail.com> if you wish to contact me
-
 
 <!---
 ibitec7/ibitec7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
