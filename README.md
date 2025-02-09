@@ -1,11 +1,17 @@
-👋 Hi, I’m @ibitec7
+## 👋 Hi, I’m @ibitec7
+I am captivated by the field of Data Science and Artificial Intelligence, having a keen interest in understanding the inner-workings of Machine Learning Algorithms and Data Systems. Beyond that, how these theories are applied to the real-world using High-Performance computing, and sophisticated and distributed systems to the Peta-Bytes worth of data that exists on the internet. Yielding the skill-set under my possession, I seek to not only understand theoretical concepts like Machine-Learning, but also implement and enable them practically on real-world Big Data. I believe data is central to the utility of any system and high-performance computing and distributed systems are the tools that enable it to be used practically.
 
-- 👀 I am captivated by the field Data Science, Artificial Intelligence. I have a keen interest in understanding how Machine Learning Algorithms work and are built. I also have an interest in exploring any data and trying to unravel what it is trying to communicate.
+I rigorously pre-process and wrangle with data through techniques like feature engineering to squeeze out every last bit of information it may contain, then I analyze it to uncover its story and the information it is communicating, and finally I use the insights gained to forecast what it may predict. I use high-performance computing to ensure that I am utilizing the full potential of the hardware that is made available to me, and design my infrastructure in a way that can scale to to utilize the potential of any future hardware upgrades.
 
-- 🌱 I have completed my Data Science certifications from DataCamp and I am a certified Data Analyst Associate, Data Engineer and Data Scientist Professional. I am currently a freshman in the BS Data Science program. I have a strong background in Mathematics and Statistics as well. I have studied Math and Further Math courses in my A-Levels. Along with that I have studied some fundamental courses to Machine Learning like Linear Algebra, Multi-Variable Calculus, Calculus 2 etc. on my own initiative through bootcamps. Along with that some essential statistics courses related to sampling, Hypothesis testing, Distributions, theoretical statistics etc.
-I demontrate proficiency in 5 programming languages namely: Python, SQL, Rust, C/C++, and R.
+I am collaborative, and welcome any open-source contributions, joint-project ventures or code-review assistance. My contribution to any project can bring the unique perspective of the project as a data systems solution. I look forward to contributing my knowledge to any project and possibly in exchange also learn a different perspective from my contributor. 
 
-- 🤝 I’m looking forward to collaborating on Data Science projects like Exploratory Analysis, Data Cleaning/Wrangling, Data Visualization, Machine/Deep Learning (with Pytorch and sklearn). However, I'm not limited to just data science collaboration but also generally collaborating on any project related to C/C++ or Rust as well. Feel free to contact me for any collaboration, joint project venture or assistance related to what I have mentioned.
+  ## PROJECTS I HAVE WORKED ON
+  - MLOps workflows
+  - RAG pipelines with LLMs
+  - ETL pipelines
+  - CLI tooling
+  - Blockchain
+  - High-Performance Simulations
 
   # TECH STACK
   ## ML/DL
@@ -40,6 +46,7 @@ I demontrate proficiency in 5 programming languages namely: Python, SQL, Rust, C
   
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ibitec7&theme=dark&hide_border=true&background=111111)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibitec7&bg_color=111111&border_color=111111&text_color=ffffff&layout=compact&hide=jupyter%20notebook)
 
 <!---
 ibitec7/ibitec7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
