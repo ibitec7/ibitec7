@@ -47,7 +47,7 @@ I am collaborative, and welcome any open-source contributions, joint-project ven
   
 
 [![GitHub Streak](https://github-readme-streak-stats-delta-lac.vercel.app?user=ibitec7&theme=dark&hide_border=true)](https://git.io/streak-stats)
-[![GitHub Streak](https://github-readme-streak-stats-git-main-ibitec7s-projects.vercel.app?user=ibitec7)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-git-main-ibitec7s-projects.vercel.app)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibitec7&bg_color=151515&border_color=151515&text_color=ffffff&layout=compact&hide=jupyter%20notebook)
 
 <!---
